@@ -3,3 +3,7 @@
 .vscode
 
 .DS_Store
+
+another_db.sqlite3
+
+database.sqlite3
